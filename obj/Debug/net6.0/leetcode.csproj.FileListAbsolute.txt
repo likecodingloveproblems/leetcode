@@ -1,0 +1,15 @@
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.csproj.AssemblyReference.cache
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfoInputs.cache
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfo.cs
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.csproj.CoreCompileInputs.cache
+/home/mam/mycode/leetcode/bin/Debug/net6.0/leetcode
+/home/mam/mycode/leetcode/bin/Debug/net6.0/leetcode.deps.json
+/home/mam/mycode/leetcode/bin/Debug/net6.0/leetcode.runtimeconfig.json
+/home/mam/mycode/leetcode/bin/Debug/net6.0/leetcode.dll
+/home/mam/mycode/leetcode/bin/Debug/net6.0/leetcode.pdb
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.dll
+/home/mam/mycode/leetcode/obj/Debug/net6.0/refint/leetcode.dll
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.pdb
+/home/mam/mycode/leetcode/obj/Debug/net6.0/leetcode.genruntimeconfig.cache
+/home/mam/mycode/leetcode/obj/Debug/net6.0/ref/leetcode.dll
