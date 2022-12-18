@@ -31,9 +31,9 @@ func intToRoman(num int) string {
 		roman = decimalToRoman[decimal]
 		if count := num / decimal; count > 0 {
 			for i := 0; i < count; i++ {
-				result = result + roman
+				result += roman
 			}
-			num = num - count*decimal
+			num -= count * decimal
 		}
 
 	}

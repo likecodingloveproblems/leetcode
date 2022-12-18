@@ -1,0 +1,15 @@
+/home/mam/mycode/leetcode/binary-search-tree-iterator/bin/Debug/net6.0/binary-search-tree-iterator
+/home/mam/mycode/leetcode/binary-search-tree-iterator/bin/Debug/net6.0/binary-search-tree-iterator.deps.json
+/home/mam/mycode/leetcode/binary-search-tree-iterator/bin/Debug/net6.0/binary-search-tree-iterator.runtimeconfig.json
+/home/mam/mycode/leetcode/binary-search-tree-iterator/bin/Debug/net6.0/binary-search-tree-iterator.dll
+/home/mam/mycode/leetcode/binary-search-tree-iterator/bin/Debug/net6.0/binary-search-tree-iterator.pdb
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.csproj.AssemblyReference.cache
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.AssemblyInfoInputs.cache
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.AssemblyInfo.cs
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.csproj.CoreCompileInputs.cache
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.dll
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/refint/binary-search-tree-iterator.dll
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.pdb
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/binary-search-tree-iterator.genruntimeconfig.cache
+/home/mam/mycode/leetcode/binary-search-tree-iterator/obj/Debug/net6.0/ref/binary-search-tree-iterator.dll
